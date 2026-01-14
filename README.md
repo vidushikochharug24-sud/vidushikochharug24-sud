@@ -21,6 +21,6 @@
 ---
 
 ## 🏆 Achievements
-- [cite_start]**Smart India Hackathon 2025 Finalist** [cite: 33]
-- [cite_start]**PRMO Gold Medalist** (Regional Math Olympiad) [cite: 34]
-- [cite_start]**8.88 CGPA** at Netaji Subhash University of Technology [cite: 9]
+- **Smart India Hackathon 2025 Finalist** [cite: 33]
+- **PRMO Gold Medalist** (Regional Math Olympiad) [cite: 34]
+- **8.88 CGPA** at Netaji Subhash University of Technology [cite: 9]
