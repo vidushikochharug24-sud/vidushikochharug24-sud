@@ -22,4 +22,6 @@
 ## 🏆 Achievements
 - **Smart India Hackathon 2025 Finalist** 
 - **PRMO Gold Medalist** (Regional Math Olympiad) 
-- **8.88 CGPA** at Netaji Subhash University of Technology 
+- **8.88 CGPA** at Netaji Subhash University of Technology
+
+![Vidushi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24&theme=dark)
