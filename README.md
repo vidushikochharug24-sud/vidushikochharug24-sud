@@ -2,7 +2,7 @@
 
 ### Engineering Undergraduate at NSUT | SIH 2025 Finalist | Problem Solver
 
-- 🔭 I’m currently working on **Project Sangha (SIH 2025)** and **Voter Passport QR system**.
+- 🔭 I’m currently working on **Voter Passport QR system**.
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms** and **Two Pointers**.
 - 💬 Ask me about **C++, React, and Web Development**.
 - 📫 How to reach me: **vidushikochhar24@gmail.com**
@@ -18,9 +18,8 @@
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 🏆 Achievements
-- **Smart India Hackathon 2025 Finalist** [cite: 33]
-- **PRMO Gold Medalist** (Regional Math Olympiad) [cite: 34]
-- **8.88 CGPA** at Netaji Subhash University of Technology [cite: 9]
+- **Smart India Hackathon 2025 Finalist** 
+- **PRMO Gold Medalist** (Regional Math Olympiad) 
+- **8.88 CGPA** at Netaji Subhash University of Technology 
