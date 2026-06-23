@@ -2,9 +2,8 @@
 
 ### Engineering Undergraduate at NSUT | SIH 2025 Finalist | Problem Solver
 
-- 🔭 I’m currently working on **Voter Passport QR system**.
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms** and **Two Pointers**.
-- 💬 Ask me about **C++, React, and Web Development**.
+
+- 🌱 I’m currently learning **Advanced Data Structures & Algorithms** & **Web Development**
 - 📫 How to reach me: **vidushikochhar24@gmail.com**
 
 ## 💻 Tech Stack
@@ -21,7 +20,7 @@
 
 ## 🏆 Achievements
 - **Smart India Hackathon 2025 Finalist** 
-- **PRMO Gold Medalist** (Regional Math Olympiad) 
-- **8.88 CGPA** at Netaji Subhash University of Technology
+- **PRMO Gold Medalist** (Regional Math Olympiad)
+- **Texas Instruments WISH'26 Mentee**
 
 ![Vidushi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24&theme=dark)
