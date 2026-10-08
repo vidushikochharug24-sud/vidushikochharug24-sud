@@ -9,7 +9,7 @@ I'm an Electronics & Communication Engineering undergraduate at **NSUT** interes
 * 🌱 Learning through **open-source contributions and building things from scratch**
 * 🧩 Interested in **low-level software, distributed systems, developer tools & infrastructure**
 * 🤝 Interested in **open-source collaboration and engineering problems**
-* 📫 Reach me at **[vidushikochhar24@gmail.com](mailto:vidushikochhar24@gmail.com)**
+* 📫 Reach me at **[vidushikochhar24@gmail.com](mailto:vidushikochhar24@gmail.com)**, let's collaborate!
 
 ## 💻 Tech Stack
 
