@@ -1,26 +1,55 @@
-# Hi! I'm Vidushi Kochhar 👋
+# Hi, I'm Vidushi Kochhar 👋
 
-### Engineering Undergraduate at NSUT | SIH 2025 Finalist | Problem Solver
+### Engineering Undergraduate @ NSUT | Systems • Software • Embedded • Open Source
 
+I'm an Electronics & Communication Engineering undergraduate at **NSUT** interested in building reliable software and low-level systems, with a growing focus on **embedded systems, systems programming, software engineering, and open source**.
 
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms** & **Web Development**
-- 📫 How to reach me: **vidushikochhar24@gmail.com**
+* 🔧 Exploring **Embedded Systems, Systems Programming & Computer Architecture**
+* 💻 Strengthening **Data Structures & Algorithms and Software Engineering**
+* 🌱 Learning through **open-source contributions and building things from scratch**
+* 🧩 Interested in **low-level software, distributed systems, developer tools & infrastructure**
+* 🤝 Interested in **open-source collaboration and engineering problems**
+* 📫 Reach me at **[vidushikochhar24@gmail.com](mailto:vidushikochhar24@gmail.com)**
 
 ## 💻 Tech Stack
 
-### Languages & Logic
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Languages
 
-### Web Development
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge\&logo=c\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-%23555555.svg?style=for-the-badge)
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Systems & Embedded
 
+**Embedded C • Data Structures & Algorithms • Operating Systems • Computer Architecture • Microcontrollers • RTOS**
 
-## 🏆 Achievements
-- **Smart India Hackathon 2025 Finalist** 
-- **PRMO Gold Medalist** (Regional Math Olympiad)
-- **Texas Instruments WISH'26 Mentee**
+**UART • SPI • I²C • GPIO • Timers • Interrupts • ADC • PWM**
 
-![Vidushi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24&theme=dark)
+### Software & Development
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+**C++ • Python • JavaScript • Git • GitHub • Linux**
+
+## 🏆 Achievements & Communities
+
+* **Texas Instruments WiSH Mentee'26**
+* **Ericsson Edge Academia Mentee'26**
+* **Codess.Cafe Mentee (OSS)'26**
+* **Smart India Hackathon Finalist'25**
+* **B.Tech ECE @ NSUT**
+
+## 📈 GitHub
+
+![Vidushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidushikochharug24\&show_icons=true\&theme=dark\&hide_border=true)
+
+![Vidushi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24\&theme=dark\&hide_border=true)
+
+---
+
+### 🤝 Open to learning, contributing, and building with the community.
