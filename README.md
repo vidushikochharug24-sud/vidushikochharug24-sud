@@ -44,11 +44,11 @@ I'm an Electronics & Communication Engineering undergraduate at **NSUT** interes
 * **Smart India Hackathon Finalist'25**
 * **B.Tech ECE @ NSUT**
 
-## 📈 GitHub
+## 📊 GitHub Stats
 
-![Vidushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidushikochharug24\&show_icons=true\&theme=dark\&hide_border=true)
+![Vidushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidushikochharug24-sud&show_icons=true&theme=dark&hide_border=true)
 
-![Vidushi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24\&theme=dark\&hide_border=true)
+![Vidushi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidushikochharug24-sud&theme=dark&hide_border=true)
 
 ---
 
